@@ -6,6 +6,10 @@
     font-size: 20px;
     font-style: italic;
     font-weight: bold;
+    border-radius: 50%;
+}
+.button:hover{
+    background-color: rgb(38, 15, 245);
 }
 
 .cuadro{
