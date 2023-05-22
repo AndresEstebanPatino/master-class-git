@@ -16,15 +16,21 @@
     width: 300px;
     height: 200px;
     background-color: black;
+    font-size: 24px;
+    color: rgb(247, 247, 250);
 }
 .cuadro2{
     width: 300px;
     height: 200px;
     background-color: rgb(226, 43, 43);
-
-
+    font-size: 24px;
+    color: rgb(247, 247, 250);
+    margin-left: 50px;
 }
-
+.dos-cuadros{
+    display: flex;
+    align-content: space-around;
+}
 
 .elipse{
     width: 200px;
